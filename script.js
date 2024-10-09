@@ -1,5 +1,3 @@
-
-
 function getComputerChoice(){
     //when function is called, randomly return rock, paper, or scissors
     //figure out a function that returns random
